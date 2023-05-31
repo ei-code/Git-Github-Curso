@@ -1,6 +1,6 @@
-Soy una prueba git-github
+Soy una prueba de conflictogit-github 
 soy un conflicto
-prueba
+prueba de conflicto
 muchas pruebas
 miles de pruebas
 mas
